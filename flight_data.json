@@ -1,0 +1,25 @@
+{
+  "prices":
+  [
+    {
+      "city": "Paris",
+      "iataCode": "PAR",
+      "lowestPrice": "54"
+    },
+    {
+      "city": "Chicago",
+      "iataCode": "CHI",
+      "lowestPrice": "670"
+    },
+    {
+      "city": "London",
+      "iataCode": "LON",
+      "lowestPrice": "45"
+    },
+    {
+      "city": "Milan",
+      "iataCode": "MIL",
+      "lowestPrice": "240"
+    }
+  ]
+}
